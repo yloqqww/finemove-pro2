@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FineMove Pro
 
 > Premium Fine Art & White-Glove Logistics Booking Platform
@@ -361,3 +362,7 @@ For questions or support, please contact:
 ---
 
 Built with ❤️ by [Your Name]
+=======
+# finemove-pro2
+FineMove Pro - Premium Fine Art &amp; White-Glove Logistics Booking Platform
+>>>>>>> 3297b5a32075c13533b0d0dd783f9e27aa404879
